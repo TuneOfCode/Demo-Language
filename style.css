@@ -66,3 +66,23 @@
   #footer{
       background-color: #e9d8f4;
   }
+.ti-angle-up{
+    background-color: #58257b; /* màu của Quản trị mạng ^^ */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 0px;
+  }
+  .btn{
+    width: 80px;
+    min-height:100%;
+    overflow-x:hidden;
+    position: fixed;
+    right: 0px;
+  }
